@@ -17,3 +17,24 @@ The Virtual Mouse project aims to develop a virtual mouse system using Python an
 
 ## Installation
 1. Clone the repository:
+   git clone https://github.com/sherilmariam/VIRTUAL-MOUSE.git
+2. Install the required dependencies:
+   pip install -r requirements.txt
+
+## Usage
+1. Run the `main.py` script:
+   python main.py
+2. Position your hand in front of the camera to control the virtual mouse.
+3. Move your hand to move the cursor on the screen.
+4. Perform gestures (e.g., finger movements) to simulate mouse clicks and other actions.
+
+## Demo
+![Virtual Mouse Demo](demo.gif)
+
+## Contributing
+Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
