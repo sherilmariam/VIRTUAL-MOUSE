@@ -28,8 +28,6 @@ The Virtual Mouse project aims to develop a virtual mouse system using Python an
 3. Move your hand to move the cursor on the screen.
 4. Perform gestures (e.g., finger movements) to simulate mouse clicks and other actions.
 
-## Demo
-![Virtual Mouse Demo](demo.gif)
 
 ## Contributing
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
